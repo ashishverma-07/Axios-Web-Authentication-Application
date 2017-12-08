@@ -1,0 +1,17 @@
+.error {
+  color: red;
+}
+
+.label {
+  font-weight: bold;
+  color: grey;
+  padding: 1ex;
+}
+
+
+.label::after {
+  content: ":"
+}
+
+
+

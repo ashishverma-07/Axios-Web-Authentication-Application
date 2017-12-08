@@ -1,0 +1,18 @@
+[
+  { "id": "averma7@example.com",
+    "firstName": "ashish",
+    "lastName": "verma",
+    "dateOfBirth": "1994-06-22"
+  },
+  { "id": "sgupta30@example.com",
+    "firstName": "Shubham",
+    "lastName": "Gupta",
+    "dateOfBirth": "1994-03-04"
+  },
+  { "id": "slalcha1@example.com",
+    "firstName": "Suresh",
+    "lastName": "Lal",
+    "dateOfBirth": "1989-10-04"
+  }
+  
+]
